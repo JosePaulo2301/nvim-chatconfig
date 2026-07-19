@@ -15,6 +15,10 @@ M.base46 = {
 	-- },
 }
 
+M.term = {
+	sizes = { sp = 0.5, vsp = 0.5, ["bo sp"] = 0.5, ["bo vsp"] = 0.5 },
+}
+
 -- M.nvdash = { load_on_startup = true }
 -- M.ui = {
 --       tabufline = {
